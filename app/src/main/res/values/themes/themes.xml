@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<style name="Theme.CoinConversor" parent="Theme.Material3.Light.NoActionBar">
+<item name="colorPrimary">@color/primary_color</item>
+<item name="colorSecondary">@color/secondary_color</item>
+<item name="android:windowBackground">@color/background_color</item>
+</style>
